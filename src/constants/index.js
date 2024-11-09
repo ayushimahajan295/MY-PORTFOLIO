@@ -32,14 +32,14 @@ export const EDUCATION = [
     degree: "High School",
     duration: "Aug 2020 - April 2022",
     details: "87.33 %",
-    logo: institute2Logo,
+    logo: institute3Logo,
   },
   {
     institution: "Center Point School, Nagpur",
     degree: "Primary School",
     duration: "Jun 2010 - March 2022",
     details: "96.66 %",
-    logo: institute3Logo,
+    logo: institute2Logo,
   },
 ];
 
