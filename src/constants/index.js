@@ -119,7 +119,7 @@ export const PROJECTS = [
  {
     title: "Symbiosis Classifieds",
     image: project5, 
-    githubLink: "https://github.com/ayushimahajan295/symbiosis-classifieds",
+    githubLink: "https://github.com/ayushimahajan295/Symbiosis-Classifieds-Project",
     description: 
       "A user-friendly platform designed to simplify Symbiosis student life by offering housing, ride, and item exchange listings. Powered by MySQL, it ensures seamless organization and real-time updates for a dynamic user experience.",
     technologies: ["MySQL", "Java", "JDBC"]
